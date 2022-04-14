@@ -1,0 +1,14 @@
+setup.py
+msrp_aboutvintage/__init__.py
+msrp_aboutvintage/items.py
+msrp_aboutvintage/middlewares.py
+msrp_aboutvintage/pipelines.py
+msrp_aboutvintage/settings.py
+msrp_aboutvintage/spiders/__init__.py
+msrp_aboutvintage/spiders/aboutvintage.py
+msrp_aboutvintage/spiders/post_appraise.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

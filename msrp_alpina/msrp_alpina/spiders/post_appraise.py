@@ -1,0 +1,1 @@
+../../../msrp_aboutvintage/msrp_aboutvintage/spiders/post_appraise.py
